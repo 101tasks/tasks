@@ -1,0 +1,19 @@
+h1. About
+
+# TODO: write what your library is all about
+
+h1. Installation
+
+* Prerelease: @gem install tasks --development --prerelease@
+* Stable version: @gem install tasks --development@
+
+h1. Usage
+
+# TODO: write how to use your library
+
+h1. Links
+
+* "Source Code":http://github.com/botanicus/tasks
+* "Wiki":http://wiki.github.com/botanicus/tasks
+* "API Docs":http://rdoc.info/projects/botanicus/tasks
+* "Bug reporting":http://github.com/botanicus/tasks/issues
